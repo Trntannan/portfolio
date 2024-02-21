@@ -1,0 +1,22 @@
+:root {
+    --primary: white;
+    --secondary: #DABEA5;
+    --tertiary: #2B2828;
+}
+
+.navbar a, .link, a, h2, #portfolio, #para, p, button, #contactformbutton, .link {
+    color: var(--primary);
+}
+
+#contact-form {
+    background-color: var(--primary)
+}
+
+u {
+    text-decoration: #DABEA5 underline;
+   
+}
+
+body {
+    background-color: var(--tertiary);
+}
